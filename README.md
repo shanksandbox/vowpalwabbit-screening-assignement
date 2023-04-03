@@ -4,7 +4,6 @@
 Developing a Comprehensive Testing Framework for VowpalWabbit<br>
 Submitted By: Shashank Kumar <br>
 Github Link: https://github.com/stellarshank <br>
-vowpalwabbit-screening-assignement <br>
 
 <h2>Problem Statement: </h2>
 Let’s say we have just implemented a new training algorithm for regression with the following interface:<br>
