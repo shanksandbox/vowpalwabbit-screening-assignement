@@ -24,8 +24,7 @@ Design and write test suite for it in Python using unittest or pytest frameworks
 •	Install numpy, scikit_learn and pytest <br>
 •	Run CMD in project directory <br>
 •	Command: python –m pytest run test_linear_regression.py <br>
- 
-Requiremnets are available in the requirements.txt file  <br>
+•	Requiremnets are available in the requirements.txt file  <br>
 
 To run this code:- <br>
 1) Clone the repository <br>
