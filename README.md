@@ -18,7 +18,8 @@ class NewTrainer: <br>
         return 0 <br>
 
 Design and write test suite for it in Python using unittest or pytest frameworks.
-
+<br>
+<img src="https://github.com/stellarshank/vowpalwabbit-screening-assignement/blob/main/pic.PNG">
 <h2>Solution:</h2>
 •	Install and setup Python version 3.11.2 Install pip <br>
 •	Install numpy, scikit_learn and pytest <br>
